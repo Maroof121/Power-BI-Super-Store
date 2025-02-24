@@ -1,7 +1,5 @@
 # Power-BI-Super-Store-Sales-Dashboard
 
-Here are three key insights based on the dashboard and sales forecast:
-
 	1.	Sales & Profit Trends: Sales reached 450K, with Office Supplies (0.19M) leading in category sales, and the Consumer segment (50.35%) dominating.
  
 	2.	Forecast & Demand Patterns: The sales forecast fluctuates, showing potential spikes, with California and New York being the highest revenue-generating states.
